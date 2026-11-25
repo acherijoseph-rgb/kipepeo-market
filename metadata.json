@@ -1,0 +1,6 @@
+{
+  "name": "Kipepeo Market",
+  "description": "Everything you need, all in one place. Modern general e-commerce storefront with M-Pesa and card checkout, customer accounts, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
